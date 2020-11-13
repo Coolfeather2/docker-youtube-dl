@@ -4,7 +4,7 @@ Supported tags and respective `Dockerfile` links
   * [`latest`](https://github.com/coolfeather2/docker-youtube-dlc/blob/master/Dockerfile) [![](https://images.microbadger.com/badges/image/coolfeather2/youtube-dlc.svg)](http://microbadger.com/images/coolfeather2/youtube-dlc "Get your own image badge on microbadger.com")
 
 
-What is youtube-dl?
+What is youtube-dlc?
 ==================
 
 [youtube-dlc](https://github.com/blackjack4494/yt-dlc) is a command-line program to download videos from YouTube.com and other video sites.
